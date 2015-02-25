@@ -117,8 +117,10 @@ p {padding:6px 0 7px 0;}
     white-space:nowrap;
     bottom:75px;
     left:0px;
-    margin-left:-38px;
-    width:90px;
+    padding:0px;
+    margin-left:-72px;
+    text-align:center;
+    width:200px;
     z-index:88;
     display:none;
 }
@@ -136,6 +138,6 @@ p {padding:6px 0 7px 0;}
     .social .link img {width:42px; height:42px;}
     
     .social .link:hover .tooltip {opacity:1; bottom:53px;}
-    .tooltip {font-size:10px;}
+    .tooltip {font-size:10px; margin-left:-79px;}
 
 }
