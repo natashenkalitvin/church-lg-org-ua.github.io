@@ -43,10 +43,13 @@ p {padding:6px 0 7px 0;}
     right:0px;
 	height:200px;
 	
+	/*
 	-webkit-transition:all 1.0s ease-in-out;
 	-moz-transition:all 1.0s ease-in-out;
 	-o-transition:all 1.0s ease-in-out;
 	transition:all 1.0s ease-in-out;
+	
+	*/
 }
 
 .btn {padding-bottom:25px;}
