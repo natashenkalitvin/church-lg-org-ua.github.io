@@ -71,7 +71,7 @@ p {padding:6px 0 7px 0;}
 
 .footer {
 	position:fixed;
-	bottom:-170px;
+	/* bottom:-170px; */ 
 	top:auto;
 	left:0px;
 	right:0px;
