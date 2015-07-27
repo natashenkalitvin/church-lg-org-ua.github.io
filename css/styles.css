@@ -66,6 +66,7 @@ p {padding:6px 0 7px 0;}
 	cursor:pointer;
 	text-align:center;
 	border:3px solid #9a423e;
+	border:5px solid red;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
 	border-radius: 25px;
